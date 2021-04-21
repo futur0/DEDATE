@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "92860323523",
+    "project_id": "de-dating-9b6b6",
+    "storage_bucket": "de-dating-9b6b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92860323523:android:d48d9d6ae533448d8af476",
+        "android_client_info": {
+          "package_name": "com.vicky.dedate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92860323523-6o1tsacsm49ssdemp5jd56ofn4apeg63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vicky.dedate",
+            "certificate_hash": "d0bda4dd798319eb96ac108d554689fc4794db4d"
+          }
+        },
+        {
+          "client_id": "92860323523-mmicastmfossfsms3ne6dedg5c8jdhrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV2OPrz38CktQ070rx8cUmo6MvhzvrXGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92860323523-mmicastmfossfsms3ne6dedg5c8jdhrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
